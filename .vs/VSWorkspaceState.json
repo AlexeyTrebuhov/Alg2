@@ -1,0 +1,19 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\ru",
+    "\\src\\main\\java\\ru\\geekbrains",
+    "\\src\\main\\java\\ru\\geekbrains\\lesson2",
+    "\\src\\test",
+    "\\src\\test\\java",
+    "\\target\\classes",
+    "\\target\\classes\\ru",
+    "\\target\\classes\\ru\\geekbrains",
+    "\\target\\classes\\ru\\geekbrains\\lesson2"
+  ],
+  "SelectedNode": "\\src\\main\\java\\ru\\geekbrains\\lesson2\\Sample01.java",
+  "PreviewInSolutionExplorer": false
+}
